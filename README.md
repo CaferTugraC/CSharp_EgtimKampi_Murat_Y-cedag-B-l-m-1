@@ -1,7 +1,32 @@
-# C# Eğitim Kampı Projeleri
-Proje 1: Temel Konular
-    Burada eğitimden öğrendiğim temel konular (değişkenler, veri girişleri, döngüler, diziler, metotlar) ve en son basit bir öğrenci not sistemi bulunmaktadır.
-    --------------------------
-Proje 2: Database ve Crud İşlemleri
-    Burada eğitimden öğrendiğim; sql veri tabanına bağlanma, verileri listeleme, güncelleme, silme, ekleme gibi işlemleri yaptım.  
+📚 C# Eğitim Kampı Projeleri
+Bu repoda, katıldığım C# eğitim kampı süresince geliştirdiğim projeler yer almaktadır. Eğitim boyunca öğrendiğim temel C# konularını ve veritabanı işlemlerini uygulamalı olarak pekiştirdim.
 
+🟢 Proje 1: Temel Konular
+Bu projede aşağıdaki temel C# konularını uyguladım:
+
+Değişkenler ve veri tipleri
+
+Konsoldan veri girişi
+
+Karar yapıları ve döngüler
+
+Diziler
+
+Metotlar
+
+Projenin sonunda, bu konuları kapsayan basit bir öğrenci not sistemi geliştirildi.
+
+🔵 Proje 2: Veritabanı ve CRUD İşlemleri
+Bu projede SQL Server kullanarak bir veritabanına bağlanma ve temel CRUD (Create, Read, Update, Delete) işlemleri gerçekleştirildi:
+
+SQL veritabanı bağlantısı
+
+Veri listeleme
+
+Veri ekleme
+
+Veri güncelleme
+
+Veri silme
+
+İşlemeler için gerekli veriler basit bir konsol uygulaması ile kullanıcıdan alındı.
