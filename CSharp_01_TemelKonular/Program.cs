@@ -258,6 +258,28 @@ namespace CSharp_01_TemelKonular
 
             #endregion
 
+            #region Metotlar
+
+            //void OgrenciYazdir(string studentName, string StudentSurname, int studentNumber)
+            //{
+            //    Console.WriteLine("--------------------------");
+            //    Console.WriteLine();
+            //    Console.WriteLine($"Öğrenci Adı: {studentName}");
+            //    Console.WriteLine("Öğrenci Soyadı: " + StudentSurname);
+            //    Console.WriteLine($"Öğrenci Numarası: {studentNumber}");
+            //    Console.WriteLine();
+            //    Console.WriteLine("--------------------------");
+            //}
+            //OgrenciYazdir("Ali", "Tuncer", 14);
+            // Hesap Makinesi
+            //int topla(int a, int b)
+            //{
+            //    return a + b;
+            //}
+            //Console.WriteLine(topla(5, 10));
+
+            #endregion
+
             #region Son Uygulama (Öğrenci Not Sitemi)
 
             //Console.WriteLine("***** Öğrenci Not Sistemi *****");
