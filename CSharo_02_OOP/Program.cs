@@ -12,18 +12,7 @@ namespace CSharo_02_OOP
     {
         static void Main(string[] args)
         {
-            #region Metotlar
-
-            //int topla(int a, int b)
-            //{
-            //    return a + b;
-            //}
-
-            //Console.WriteLine(topla(5, 10));
-
-            #endregion
-
-            #region SQL
+            #region SQL Database Bağlantısı ve Veri Çekme
 
             //SqlConnection connection = new SqlConnection("Data Source=CAFER\\SQLEXPRESS;Initial Catalog=CSharp_EgtimDB;Integrated Security=True;Pooling=False");
 
